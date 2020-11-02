@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">7Cancel-coroutines-with-a-job-reference</string>
+    <string name="cancel">Cancel</string>
+</resources>
