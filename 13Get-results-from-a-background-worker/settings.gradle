@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "13Get-results-from-a-background-worker"
