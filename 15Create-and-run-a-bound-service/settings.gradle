@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "15Create-and-run-a-bound-service"
